@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Open_Mod_Manager_Repository>
-  <uuid>140ae466-acd5-48f2-8741-3ffa6685d4fc</uuid>
-  <title>root</title>
+  <uuid>4f003f5c-a87f-420f-901d-295af2fece8c</uuid>
+  <title>test</title>
   <downpath>files/root</downpath>
   <references count="0">
     <mod ident="(ROOT)_(OPTIONAL)_ECHO19_Sound_Mod_Core_Ultimate_Edition_v1.0.0" file="(ROOT)_(OPTIONAL)_ECHO19_Sound_Mod_Core_Ultimate_Edition_v1.0.0.zip" bytes="374128164" xxhsum="ef56eeb528d0bf39" category="Sound">
